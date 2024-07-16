@@ -7,7 +7,7 @@ from pychoru6.pychorus.helpers import find_and_output_choruses
 
 
 # Replace 'your_openai_api_key' with your actual OpenAI API key
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="KEY")
 
 
 
