@@ -2,7 +2,7 @@ import librosa
 import openai
 
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Key")
 
 
 ######################################################################################
